@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "pinconfigured.h": "c",
+        "arduino.h": "c",
+        "pins_arduino.h": "c",
+        "pinnames.h": "c",
+        "variant.h": "c"
+    }
+}
